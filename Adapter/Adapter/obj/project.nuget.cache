@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IsDviYRwDAsuBraAGfZDDQ835FB8L7nnpN09bO6VE+ovUrhYfHuyPr0pXAnCnujKf04fMNJiCZntlh40aeMXpg==",
+  "success": true,
+  "projectFilePath": "/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_patronEstructural/Patron_Estructural/Adapter/Adapter/Adapter.csproj",
+  "expectedPackageFiles": [
+    "/Users/ricky/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
