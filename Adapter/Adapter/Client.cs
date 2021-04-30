@@ -15,7 +15,7 @@ namespace Adapter
         public void ShowVehiclesList()
         {
             List<string> vehicle = _vehicleSource.GetVehiclesList();
-            //To DO: Implement you business logic
+            
 
             Console.WriteLine("*** Vehicles List ***");
             foreach (var item in vehicle)
